@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheRealSibasishBehera
-- 👀 I am intrested in contributing to a opensource project 
+- 👀 I am intrested in contributing to a large scale opensource project 
 - 🌱 I’m currently learning java and basic algorithms
 - 📫 How to reach me fangedhamster3114@gmail.com
 - Studying at IIIT Allahabad 
