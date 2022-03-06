@@ -6,7 +6,7 @@
 
 ## I'm a Student, OpenSource Enthusiast, Developer, and Teacher!!
 
-- 🌱 I’m currently learning Docker , Kubernates , Java , Python , Solidity ,
+- 🌱 I’m currently learning Docker , Kubernates ,Go , Java , Python , Solidity ,
 - 🥅 2022 Goals: Learn more about web3 , Add value to open-source projects based 
 - ⚡ Fun fact: I love to watch anime and play drums
 - 🌱  I’m currently in freshman year at [IIIT A,India](https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Allahabad)
