@@ -1,53 +1,32 @@
-# Hi there, I'm Sibasish 👋 
+<h1 align="center">Hi 👋, I'm Sibasish</h1>
+<h3 align="center">I'm a Student, OpenSource Enthusiast, Developer, and Teacher!!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealsibasishbehera&label=Profile%20views&color=0e75b6&style=flat" alt="therealsibasishbehera" /> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FangedHamster?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealsibasishbehera" alt="therealsibasishbehera" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fangedhamster" target="blank"><img src="https://img.shields.io/twitter/follow/fangedhamster?logo=twitter&style=for-the-badge" alt="fangedhamster" /></a> </p>
 
-## I'm a Student, OpenSource Enthusiast, Developer, and Teacher!!
+- 🌱 I’m currently learning **Docker , Kubernates ,Go , Java , Python , Solidity**
 
-- 🌱 I’m currently learning Docker , Kubernates ,Go , Java , Python , Solidity ,
-- 🥅 2022 Goals: Learn more about web3 , Add value to open-source projects based 
-- ⚡ Fun fact: I love to watch anime and play drums
-- 🌱  I’m currently in freshman year at [IIIT A,India](https://en.wikipedia.org/wiki/Indian_Institute_of_Information_Technology,_Allahabad)
-- 😄 Pronoun: He/Him
-- 💬 Talk anything about Blockchain and Anime 😎 
+- 💬 Ask me about **k8s ,Blockchain**
 
-### Connect with me:
+- 📫 How to reach me **fangedhamster3114@gmail.com**
 
-[![website](./img/twitter-light.svg)](https://twitter.com/FangedHamster#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/FangedHamster#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/sibasish-behera-b33532224/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/sibasish-behera-b33532224/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/i_am_sin_4_real/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/i_am_sin_4_real/#gh-dark-mode-only)
+- ⚡ Fun fact **I love to watch anime and play drums**
 
-### Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/FangedHamster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="FangedHamster" height="30" width="40" /></a>
+<a href="https://instagram.com/i_am_sin_4_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_sin_4_real" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sibasishbehera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sibasishbehera" height="30" width="40" /></a>
+</p>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="Docker" width="26px" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP" />](https://www.docker.com/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br />
-<br />
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=therealsibasishbehera&show_icons=true&locale=en&layout=compact" alt="therealsibasishbehera" /></p>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TheRealSibasishBehera&show_icons=true&locale=en" alt="TheRealSibasishBehera" /></p>
 
-  <img align="left" alt="TheRealSibasishBehera's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TheRealSibasishBehera&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[twitter]: https://twitter.com/FangedHamster
-[instagram]: https://www.instagram.com/i_am_sin_4_real/
-[linkedin]: https://www.linkedin.com/in/sibasish-behera-b33532224/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheRealSibasishBehera&" alt="TheRealSibasishBehera" /></p>
