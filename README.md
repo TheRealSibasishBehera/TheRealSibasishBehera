@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fangedhamster" target="blank"><img src="https://img.shields.io/twitter/follow/fangedhamster?logo=twitter&style=for-the-badge" alt="fangedhamster" /></a> </p>
 
-- 🌱 I’m currently learning **Docker , Kubernates ,Go , Java , Python , Solidity**
+- 🌱 I’m learning **Docker , Kubernates ,Go , Java , Python , Solidity**
 
 - 💬 Ask me about **k8s ,Blockchain**
 
