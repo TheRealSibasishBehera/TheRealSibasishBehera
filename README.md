@@ -12,9 +12,9 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 #### 🔨 Check out my recent pull requests
 
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (1 week ago)
-- [setup cobra](https://github.com/hellraiser899/go-wget/pull/4) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 weeks ago)
-- [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 weeks ago)
-- [initial commit](https://github.com/hellraiser899/go-wget/pull/1) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 weeks ago)
+- [setup cobra](https://github.com/hellraiser899/go-wget/pull/4) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (3 weeks ago)
+- [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (3 weeks ago)
+- [initial commit](https://github.com/hellraiser899/go-wget/pull/1) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (3 weeks ago)
 - [Updated install command to receive env as argument](https://github.com/kubearmor/kubearmor-client/pull/265) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (1 month ago)
 - [Added check for update in any mandatory release of karmor CLI](https://github.com/kubearmor/kubearmor-client/pull/251) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (1 month ago)
 - [updated localPort value to not bind with with any port to be used by …](https://github.com/kubearmor/kubearmor-client/pull/247) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (1 month ago)
