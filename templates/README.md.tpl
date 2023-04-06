@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions , cloud native and distributed systems<br><br>🤝 Feel free to ping me on socials if you just want have a good chat on these
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealSibasishBehera&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/FangedHamster#6966) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sibasish-behera-b33532224) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@beherasibasishkkc) 
