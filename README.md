@@ -42,9 +42,9 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 👷 Check out what I'm currently working on
 
+- [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (today)
 - [TheRealSibasishBehera/kubearmor-elasticstack-logging](https://github.com/TheRealSibasishBehera/kubearmor-elasticstack-logging) -  (1 week ago)
 - [TheRealSibasishBehera/learn-github-actions](https://github.com/TheRealSibasishBehera/learn-github-actions) -  (1 month ago)
 - [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) -  (1 month ago)
 - [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) - KubeArmor cli tool aka kArmor :robot: (1 month ago)
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (2 months ago)
 
