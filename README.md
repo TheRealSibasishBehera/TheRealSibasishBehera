@@ -35,7 +35,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### ⭐ Check out my recent stars
 
-- [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (1 week ago)
+- [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (2 weeks ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (1 month ago)
 - [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) - An open-source network proxy framework for Apache Kafka (3 months ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (4 months ago)
