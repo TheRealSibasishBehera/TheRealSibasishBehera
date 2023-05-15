@@ -13,6 +13,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 🔨 Check out my recent pull requests
 
+- [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (today)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (2 months ago)
 - [setup cobra](https://github.com/hellraiser899/go-wget/pull/4) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 months ago)
 - [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 months ago)
@@ -31,7 +32,6 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 - [Task1 completed](https://github.com/GeekHaven/WebD-APK-Month-22/pull/169) on [GeekHaven/WebD-APK-Month-22](https://github.com/GeekHaven/WebD-APK-Month-22) (1 year ago)
 - [Pr branch](https://github.com/GeekHaven/GoGit/pull/428) on [GeekHaven/GoGit](https://github.com/GeekHaven/GoGit) (1 year ago)
 - [Task3](https://github.com/GeekHaven/GoGit/pull/152) on [GeekHaven/GoGit](https://github.com/GeekHaven/GoGit) (1 year ago)
-- [Task2](https://github.com/GeekHaven/GoGit/pull/115) on [GeekHaven/GoGit](https://github.com/GeekHaven/GoGit) (1 year ago)
 
 #### ⭐ Check out my recent stars
 
