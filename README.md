@@ -13,6 +13,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 🔨 Check out my recent pull requests
 
+- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (today)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (2 days ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (2 weeks ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (2 months ago)
@@ -31,7 +32,6 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 - [Flotta podman sock](https://github.com/project-flotta/kepler/pull/1) on [project-flotta/kepler](https://github.com/project-flotta/kepler) (9 months ago)
 - [Task1 completed by TheRealSibasihBehera](https://github.com/GeekHaven/Blockchain-Task1/pull/17) on [GeekHaven/Blockchain-Task1](https://github.com/GeekHaven/Blockchain-Task1) (1 year ago)
 - [Task1 completed](https://github.com/GeekHaven/WebD-APK-Month-22/pull/169) on [GeekHaven/WebD-APK-Month-22](https://github.com/GeekHaven/WebD-APK-Month-22) (1 year ago)
-- [Pr branch](https://github.com/GeekHaven/GoGit/pull/428) on [GeekHaven/GoGit](https://github.com/GeekHaven/GoGit) (1 year ago)
 
 #### ⭐ Check out my recent stars
 
