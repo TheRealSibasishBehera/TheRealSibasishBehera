@@ -13,7 +13,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 🔨 Check out my recent pull requests
 
-- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (5 days ago)
+- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (6 days ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (1 week ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (3 weeks ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (3 months ago)
@@ -43,7 +43,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (1 month ago)
+- [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (2 months ago)
 - [TheRealSibasishBehera/kubearmor-elasticstack-logging](https://github.com/TheRealSibasishBehera/kubearmor-elasticstack-logging) -  (2 months ago)
 - [TheRealSibasishBehera/learn-github-actions](https://github.com/TheRealSibasishBehera/learn-github-actions) -  (3 months ago)
 - [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) -  (3 months ago)
