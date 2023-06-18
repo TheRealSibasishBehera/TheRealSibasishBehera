@@ -35,7 +35,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### ⭐ Check out my recent stars
 
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (today)
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (1 day ago)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (2 months ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (3 months ago)
 - [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) - An open-source network proxy framework for Apache Kafka (5 months ago)
