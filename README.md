@@ -13,8 +13,8 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 🔨 Check out my recent pull requests
 
-- [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (1 week ago)
-- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (2 weeks ago)
+- [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (2 weeks ago)
+- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (3 weeks ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (3 weeks ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (1 month ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (3 months ago)
@@ -35,7 +35,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### ⭐ Check out my recent stars
 
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (3 days ago)
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (4 days ago)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (2 months ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (3 months ago)
 - [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) - An open-source network proxy framework for Apache Kafka (5 months ago)
@@ -44,7 +44,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (1 day ago)
+- [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (2 days ago)
 - [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (2 months ago)
 - [TheRealSibasishBehera/kubearmor-elasticstack-logging](https://github.com/TheRealSibasishBehera/kubearmor-elasticstack-logging) -  (2 months ago)
 - [TheRealSibasishBehera/learn-github-actions](https://github.com/TheRealSibasishBehera/learn-github-actions) -  (3 months ago)
