@@ -35,7 +35,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### ⭐ Check out my recent stars
 
-- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (2 weeks ago)
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (3 weeks ago)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (3 months ago)
 - [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually works! (4 months ago)
 - [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) - An open-source network proxy framework for Apache Kafka (6 months ago)
@@ -44,7 +44,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (2 days ago)
+- [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (3 days ago)
 - [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (3 months ago)
 - [TheRealSibasishBehera/kubearmor-elasticstack-logging](https://github.com/TheRealSibasishBehera/kubearmor-elasticstack-logging) -  (3 months ago)
 - [TheRealSibasishBehera/learn-github-actions](https://github.com/TheRealSibasishBehera/learn-github-actions) -  (4 months ago)
