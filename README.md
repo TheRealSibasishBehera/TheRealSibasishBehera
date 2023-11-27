@@ -14,7 +14,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 #### 🔨 Check out my recent pull requests
 
 - [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (5 months ago)
-- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (5 months ago)
+- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (6 months ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (6 months ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (6 months ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (8 months ago)
@@ -22,7 +22,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 - [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (9 months ago)
 - [initial commit](https://github.com/hellraiser899/go-wget/pull/1) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (9 months ago)
 - [Updated install command to receive env as argument](https://github.com/kubearmor/kubearmor-client/pull/265) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (9 months ago)
-- [Added check for update in any mandatory release of karmor CLI](https://github.com/kubearmor/kubearmor-client/pull/251) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (9 months ago)
+- [Added check for update in any mandatory release of karmor CLI](https://github.com/kubearmor/kubearmor-client/pull/251) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (10 months ago)
 - [updated localPort value to not bind with with any port to be used by …](https://github.com/kubearmor/kubearmor-client/pull/247) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (10 months ago)
 - [updated error message for failing to find pods before port forward](https://github.com/kubearmor/kubearmor-client/pull/245) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (10 months ago)
 - [docs: Provides documentation on Kubearmor container visibility ](https://github.com/kubearmor/KubeArmor/pull/1028) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (11 months ago)
