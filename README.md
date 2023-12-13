@@ -44,9 +44,9 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 👷 Check out what I'm currently working on
 
+- [opencodeiiita/GoGit-3.0](https://github.com/opencodeiiita/GoGit-3.0) - A project to learn the basics of Git and GitHub. (2 days ago)
 - [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (4 days ago)
 - [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) - KubeArmor Relay Server (5 months ago)
 - [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) - ELK-Stack for KubeArmor (6 months ago)
 - [TheRealSibasishBehera/lib-tracker](https://github.com/TheRealSibasishBehera/lib-tracker) -  (8 months ago)
-- [TheRealSibasishBehera/serl-assignment](https://github.com/TheRealSibasishBehera/serl-assignment) -  (8 months ago)
 
