@@ -37,14 +37,12 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database. (8 months ago)
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (11 months ago)
-- [keploy/keploy](https://github.com/keploy/keploy) - Test generation for Developers. Generate tests and stubs for your application that actually work! (1 year ago)
-- [kroxylicious/kroxylicious](https://github.com/kroxylicious/kroxylicious) - An open-source network proxy framework for Apache Kafka (1 year ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Runtime Security Enforcement System. Workload hardening and implementing least-permissive policies made easy leveraging LSMs (BPF-LSM, AppArmor). (1 year ago)
 - [sustainable-computing-io/kepler](https://github.com/sustainable-computing-io/kepler) - Kepler (Kubernetes-based Efficient Power Level Exporter) uses eBPF to probe performance counters and other system stats, use ML models to estimate workload energy consumption based on these stats, and exports them as Prometheus metrics (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/KRYPT](https://github.com/TheRealSibasishBehera/KRYPT) -  (2 days ago)
+- [TheRealSibasishBehera/KRYPT](https://github.com/TheRealSibasishBehera/KRYPT) -  (3 days ago)
 - [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (1 month ago)
 - [TheRealSibasishBehera/ORB-SLAM2](https://github.com/TheRealSibasishBehera/ORB-SLAM2) -  (2 months ago)
 - [opencodeiiita/GoGit-3.0](https://github.com/opencodeiiita/GoGit-3.0) - A project to learn the basics of Git and GitHub. (2 months ago)
