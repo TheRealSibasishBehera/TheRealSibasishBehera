@@ -13,6 +13,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (today)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (3 weeks ago)
 - [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (9 months ago)
 - [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (10 months ago)
@@ -32,7 +33,6 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 - [Update lost and found views](https://github.com/GeekHaven/Lost-And-Found-Backend/pull/2) on [GeekHaven/Lost-And-Found-Backend](https://github.com/GeekHaven/Lost-And-Found-Backend) (2 years ago)
 - [.gitignore fix](https://github.com/GeekHaven/Lost-And-Found-Backend/pull/1) on [GeekHaven/Lost-And-Found-Backend](https://github.com/GeekHaven/Lost-And-Found-Backend) (2 years ago)
 - [Flotta podman sock](https://github.com/project-flotta/kepler/pull/1) on [project-flotta/kepler](https://github.com/project-flotta/kepler) (2 years ago)
-- [Task1 completed by TheRealSibasihBehera](https://github.com/GeekHaven/Blockchain-Task1/pull/17) on [GeekHaven/Blockchain-Task1](https://github.com/GeekHaven/Blockchain-Task1) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
