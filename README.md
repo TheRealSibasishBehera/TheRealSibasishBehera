@@ -16,7 +16,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in full stack solutions ,
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (3 weeks ago)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (1 month ago)
 - [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (10 months ago)
-- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (10 months ago)
+- [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (11 months ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (11 months ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (11 months ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (1 year ago)
