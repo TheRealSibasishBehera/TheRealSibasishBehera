@@ -22,7 +22,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 - [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (1 year ago)
 - [initial commit](https://github.com/hellraiser899/go-wget/pull/1) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (1 year ago)
 - [Updated install command to receive env as argument](https://github.com/kubearmor/kubearmor-client/pull/265) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (1 year ago)
-- [Added check for update in any mandatory release of karmor CLI](https://github.com/kubearmor/kubearmor-client/pull/251) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (1 year ago)
+- [Added check for update in any mandatory release of karmor CLI](https://github.com/kubearmor/kubearmor-client/pull/251) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (2 years ago)
 - [updated localPort value to not bind with with any port to be used by …](https://github.com/kubearmor/kubearmor-client/pull/247) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (2 years ago)
 - [updated error message for failing to find pods before port forward](https://github.com/kubearmor/kubearmor-client/pull/245) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (2 years ago)
 - [docs: Provides documentation on Kubearmor container visibility ](https://github.com/kubearmor/KubeArmor/pull/1028) on [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) (2 years ago)
