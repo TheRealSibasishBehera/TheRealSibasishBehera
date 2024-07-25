@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 #### 🔨 Check out my recent pull requests
 
-- [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (4 weeks ago)
+- [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (1 month ago)
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (3 months ago)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (4 months ago)
 - [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (1 year ago)
@@ -41,7 +41,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) - DRA driver for KubeVirt  (4 weeks ago)
+- [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) - DRA driver for KubeVirt  (1 month ago)
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (4 months ago)
 - [TheRealSibasishBehera/KRYPT](https://github.com/TheRealSibasishBehera/KRYPT) -  (4 months ago)
 - [TheRealSibasishBehera/SolvedLeetCode](https://github.com/TheRealSibasishBehera/SolvedLeetCode) - Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub) (5 months ago)
