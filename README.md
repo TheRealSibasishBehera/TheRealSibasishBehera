@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 #### 🔨 Check out my recent pull requests
 
+- [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (today)
 - [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (1 month ago)
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (4 months ago)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (5 months ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 - [refactor: Question Model](https://github.com/opencodeiiita/Forum-Backend/pull/26) on [opencodeiiita/Forum-Backend](https://github.com/opencodeiiita/Forum-Backend) (2 years ago)
 - [Updated git ignore to ignore migrations .  Refatored settings](https://github.com/opencodeiiita/Forum-Backend/pull/11) on [opencodeiiita/Forum-Backend](https://github.com/opencodeiiita/Forum-Backend) (2 years ago)
 - [Update lost and found views](https://github.com/GeekHaven/Lost-And-Found-Backend/pull/2) on [GeekHaven/Lost-And-Found-Backend](https://github.com/GeekHaven/Lost-And-Found-Backend) (2 years ago)
-- [.gitignore fix](https://github.com/GeekHaven/Lost-And-Found-Backend/pull/1) on [GeekHaven/Lost-And-Found-Backend](https://github.com/GeekHaven/Lost-And-Found-Backend) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
