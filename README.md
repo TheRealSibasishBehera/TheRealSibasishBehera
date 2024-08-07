@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 #### 🔨 Check out my recent pull requests
 
-- [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (today)
+- [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (1 day ago)
 - [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (1 month ago)
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (4 months ago)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (5 months ago)
