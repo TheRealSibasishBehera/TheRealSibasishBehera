@@ -12,7 +12,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 - [PCI DRA driver](https://github.com/kubevirt/dra-pci-driver/pull/1) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (2 weeks ago)
 - [Add TheRealSibasishBehera to KubeVirt Members](https://github.com/kubevirt/project-infra/pull/3578) on [kubevirt/project-infra](https://github.com/kubevirt/project-infra) (2 weeks ago)
-- [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (2 weeks ago)
+- [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (3 weeks ago)
 - [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (2 months ago)
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (5 months ago)
 - [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (5 months ago)
@@ -40,7 +40,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) -  (today)
+- [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) -  (1 day ago)
 - [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) - DRA device driver for PCI passthrough devices (1 week ago)
 - [kubevirt/project-infra](https://github.com/kubevirt/project-infra) - Project infrastructure administrative tools (2 weeks ago)
 - [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) - DRA driver for KubeVirt  (2 months ago)
