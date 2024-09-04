@@ -41,7 +41,7 @@ Hi 👋 ! Sibasish here <br><br>👨‍💻 Interested in cloud native , virtual
 #### 👷 Check out what I'm currently working on
 
 - [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) - DRA device driver for PCI passthrough devices (1 week ago)
-- [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) -  (1 week ago)
+- [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) - Work product summary GSoC 2024 (1 week ago)
 - [kubevirt/project-infra](https://github.com/kubevirt/project-infra) - Project infrastructure administrative tools (3 weeks ago)
 - [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) - DRA driver for KubeVirt  (2 months ago)
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (5 months ago)
