@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [[WIP] Feat/vol snapshots](https://github.com/civo/civogo/pull/226) on [civo/civogo](https://github.com/civo/civogo) (1 day ago)
+- [Feat/vol snapshots](https://github.com/civo/civogo/pull/226) on [civo/civogo](https://github.com/civo/civogo) (1 day ago)
 - [Update dependancy and add grub change instruction](https://github.com/kubevirt/dra-pci-driver/pull/5) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (3 months ago)
 - [PCI DRA driver](https://github.com/kubevirt/dra-pci-driver/pull/1) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (3 months ago)
 - [Add TheRealSibasishBehera to KubeVirt Members](https://github.com/kubevirt/project-infra/pull/3578) on [kubevirt/project-infra](https://github.com/kubevirt/project-infra) (3 months ago)
