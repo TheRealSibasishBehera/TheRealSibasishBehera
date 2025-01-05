@@ -43,7 +43,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project (2 months ago)
 - [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) - Kubernetes Virtualization API and runtime in order to define and manage virtual machines. (6 months ago)
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. (2 years ago)
-- [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️ (2 years ago)
 
 #### 👷 Check out what I'm currently working on
 
