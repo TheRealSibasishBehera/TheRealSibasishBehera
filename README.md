@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (today)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (2 weeks ago)
 - [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (3 months ago)
 - [fix: Use storage class from annotation for host-assisted PVC operation](https://github.com/kubevirt/containerized-data-importer/pull/3585) on [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) (3 months ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [setup cobra](https://github.com/hellraiser899/go-wget/pull/4) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 years ago)
 - [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 years ago)
 - [initial commit](https://github.com/hellraiser899/go-wget/pull/1) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 years ago)
-- [Updated install command to receive env as argument](https://github.com/kubearmor/kubearmor-client/pull/265) on [kubearmor/kubearmor-client](https://github.com/kubearmor/kubearmor-client) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
@@ -50,9 +50,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
+- [civo/cli](https://github.com/civo/cli) - Our Command Line Interface (CLI) for interacting with your Civo resources (today)
 - [civo/civogo](https://github.com/civo/civogo) - Golang client to interact with Civo&#39;s API (3 months ago)
 - [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) - DRA device driver for PCI passthrough devices (7 months ago)
 - [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) - Work product summary GSoC 2024 (8 months ago)
 - [kubevirt/project-infra](https://github.com/kubevirt/project-infra) - Project infrastructure administrative tools (8 months ago)
-- [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) - DRA driver for KubeVirt  (10 months ago)
 
