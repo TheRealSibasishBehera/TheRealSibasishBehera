@@ -51,9 +51,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
+- [civo/docs](https://github.com/civo/docs) - Civo Public Documentation (today)
 - [civo/cli](https://github.com/civo/cli) - Our Command Line Interface (CLI) for interacting with your Civo resources (2 weeks ago)
 - [civo/civogo](https://github.com/civo/civogo) - Golang client to interact with Civo&#39;s API (3 months ago)
 - [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) - DRA device driver for PCI passthrough devices (8 months ago)
 - [TheRealSibasishBehera/GSoC-2024](https://github.com/TheRealSibasishBehera/GSoC-2024) - Work product summary GSoC 2024 (8 months ago)
-- [kubevirt/project-infra](https://github.com/kubevirt/project-infra) - Project infrastructure administrative tools (9 months ago)
 
