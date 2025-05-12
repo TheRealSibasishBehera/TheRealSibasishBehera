@@ -33,9 +33,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (1 week ago)
+- [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (2 weeks ago)
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (2 weeks ago)
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles: (2 months ago)
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles: (3 months ago)
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.  (3 months ago)
 - [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (3 months ago)
 - [keyvanakbary/learning-notes](https://github.com/keyvanakbary/learning-notes) - Notes on books I read, talks I watch, articles I study, and papers I love (4 months ago)
@@ -51,7 +51,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [civo/docs](https://github.com/civo/docs) - Civo Public Documentation (3 days ago)
+- [civo/docs](https://github.com/civo/docs) - Civo Public Documentation (4 days ago)
 - [civo/cli](https://github.com/civo/cli) - Our Command Line Interface (CLI) for interacting with your Civo resources (2 weeks ago)
 - [civo/civogo](https://github.com/civo/civogo) - Golang client to interact with Civo&#39;s API (3 months ago)
 - [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) - DRA device driver for PCI passthrough devices (8 months ago)
