@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (today)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 day ago)
 - [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (2 weeks ago)
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (2 weeks ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (5 months ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (5 months ago)
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It&#39;s cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces. (5 months ago)
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) - Distributed SQL database in Rust, written as an educational project (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
