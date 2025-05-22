@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (today)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative (2 days ago)
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (1 week ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 week ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. (6 months ago)
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF&#39;s k3s in Docker (6 months ago)
 - [metallb/metallb](https://github.com/metallb/metallb) - A network load-balancer implementation for Kubernetes using standard routing protocols (6 months ago)
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (6 months ago)
 
 #### 👷 Check out what I'm currently working on
 
