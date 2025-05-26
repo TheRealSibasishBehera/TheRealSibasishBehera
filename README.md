@@ -34,7 +34,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### ⭐ Check out my recent stars
 
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (4 days ago)
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative (6 days ago)
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (6 days ago)
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (1 week ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 week ago)
 - [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (4 weeks ago)
