@@ -33,11 +33,11 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (5 days ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (6 days ago)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (1 week ago)
-- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (1 week ago)
+- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (2 weeks ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (2 weeks ago)
-- [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (4 weeks ago)
+- [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (1 month ago)
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (1 month ago)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles: (3 months ago)
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.  (3 months ago)
@@ -51,7 +51,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 week ago)
+- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
 - [civo/docs](https://github.com/civo/docs) - Civo Public Documentation (2 weeks ago)
 - [civo/cli](https://github.com/civo/cli) - Our Command Line Interface (CLI) for interacting with your Civo resources (1 month ago)
 - [civo/civogo](https://github.com/civo/civogo) - Golang client to interact with Civo&#39;s API (4 months ago)
