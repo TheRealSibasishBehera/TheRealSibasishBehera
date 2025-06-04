@@ -33,13 +33,13 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy &amp; scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere. (2 days ago)
-- [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code! (4 days ago)
-- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (4 days ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 days ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy &amp; scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere. (3 days ago)
+- [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code! (5 days ago)
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (5 days ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (2 weeks ago)
-- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (2 weeks ago)
+- [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (3 weeks ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (3 weeks ago)
 - [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (1 month ago)
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (1 month ago)
@@ -51,8 +51,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/swim-protocol](https://github.com/TheRealSibasishBehera/swim-protocol) - Blazingly Fast &amp; Modular SWIM Protocol Implementation in Rust (today)
-- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
+- [TheRealSibasishBehera/swim-protocol](https://github.com/TheRealSibasishBehera/swim-protocol) - Blazingly Fast &amp; Modular SWIM Protocol Implementation in Rust (1 day ago)
+- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (3 weeks ago)
 - [civo/docs](https://github.com/civo/docs) - Civo Public Documentation (3 weeks ago)
 - [civo/cli](https://github.com/civo/cli) - Our Command Line Interface (CLI) for interacting with your Civo resources (1 month ago)
 - [civo/civogo](https://github.com/civo/civogo) - Golang client to interact with Civo&#39;s API (4 months ago)
