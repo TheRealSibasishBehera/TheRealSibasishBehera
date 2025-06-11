@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities (today)
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (1 day ago)
 - [heroku/libcnb.rs](https://github.com/heroku/libcnb.rs) - A framework for writing Cloud Native Buildpacks in Rust (1 day ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (1 month ago)
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles: (4 months ago)
 - [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p) - The Rust Implementation of the libp2p networking stack.  (4 months ago)
-- [obscuren/tinyvm](https://github.com/obscuren/tinyvm) - Minimalistic Virtual Machine (4 months ago)
 
 #### 👷 Check out what I'm currently working on
 
