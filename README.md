@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (today)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 month ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (1 month ago)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (2 months ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (2 years ago)
 - [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (2 years ago)
 - [setup cobra](https://github.com/hellraiser899/go-wget/pull/4) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 years ago)
-- [Readme update describes working status on flags](https://github.com/hellraiser899/go-wget/pull/3) on [hellraiser899/go-wget](https://github.com/hellraiser899/go-wget) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
