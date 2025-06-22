@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [ErikKaum/beanbox-vm](https://github.com/ErikKaum/beanbox-vm) - A microVM for LLMs and humans (today)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (today)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 week ago)
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities (1 week ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (1 month ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 month ago)
 - [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (1 month ago)
-- [filecoin-project/lotus](https://github.com/filecoin-project/lotus) - Reference implementation of the Filecoin protocol, written in Go (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
