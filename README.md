@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (today)
 - [ErikKaum/beanbox-vm](https://github.com/ErikKaum/beanbox-vm) - A microVM for LLMs and humans (4 days ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (4 days ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (1 week ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (1 month ago)
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (1 month ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 month ago)
-- [otoolep/hraftd](https://github.com/otoolep/hraftd) - A reference use of Hashicorp&#39;s Raft implementation (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
