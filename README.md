@@ -52,7 +52,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### 👷 Check out what I'm currently working on
 
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (today)
-- [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (4 days ago)
+- [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (today)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 week ago)
 - [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (2 weeks ago)
 - [TheRealSibasishBehera/swim-protocol](https://github.com/TheRealSibasishBehera/swim-protocol) - Blazingly Fast &amp; Modular SWIM Protocol Implementation in Rust (1 month ago)
