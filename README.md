@@ -45,7 +45,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy &amp; scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere. (1 month ago)
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code! (1 month ago)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (1 month ago)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 month ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 months ago)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_ (2 months ago)
 - [otiai10/copy](https://github.com/otiai10/copy) - Go copy directory recursively (2 months ago)
 
@@ -54,6 +54,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 week ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (1 week ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
-- [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (3 weeks ago)
+- [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (4 weeks ago)
 - [TheRealSibasishBehera/swim-protocol](https://github.com/TheRealSibasishBehera/swim-protocol) - Blazingly Fast &amp; Modular SWIM Protocol Implementation in Rust (1 month ago)
 
