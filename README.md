@@ -42,7 +42,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (1 month ago)
 - [heroku/libcnb.rs](https://github.com/heroku/libcnb.rs) - A framework for writing Cloud Native Buildpacks in Rust (1 month ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 month ago)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source serverless platform. Easily deploy &amp; scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere. (1 month ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability. (1 month ago)
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code! (1 month ago)
 - [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (1 month ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (2 months ago)
