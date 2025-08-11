@@ -11,7 +11,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### 🔨 Check out my recent pull requests
 
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (1 month ago)
-- [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 months ago)
+- [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (3 months ago)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (4 months ago)
 - [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (6 months ago)
@@ -51,7 +51,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/cni-basic](https://github.com/TheRealSibasishBehera/cni-basic) - A simple implementaion of a CNI plugin (1 day ago)
+- [TheRealSibasishBehera/cni-basic](https://github.com/TheRealSibasishBehera/cni-basic) - A simple implementaion of a CNI plugin (2 days ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (1 month ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 month ago)
