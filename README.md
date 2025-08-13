@@ -51,7 +51,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/cni-basic](https://github.com/TheRealSibasishBehera/cni-basic) - A simple implementaion of a CNI plugin (3 days ago)
+- [TheRealSibasishBehera/cni-basic](https://github.com/TheRealSibasishBehera/cni-basic) - A simple implementaion of a CNI plugin (4 days ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (1 month ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 month ago)
