@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (4 days ago)
+- [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (5 days ago)
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 months ago)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (3 months ago)
@@ -33,13 +33,13 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (today)
-- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (4 days ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 weeks ago)
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (1 day ago)
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (5 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 weeks ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 month ago)
 - [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 month ago)
-- [ErikKaum/beanbox-vm](https://github.com/ErikKaum/beanbox-vm) - A microVM for LLMs and humans (1 month ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (1 month ago)
+- [ErikKaum/beanbox-vm](https://github.com/ErikKaum/beanbox-vm) - A microVM for LLMs and humans (2 months ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 months ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (2 months ago)
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities (2 months ago)
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (2 months ago)
