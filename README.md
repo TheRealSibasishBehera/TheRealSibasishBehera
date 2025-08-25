@@ -33,12 +33,12 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (today)
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (4 days ago)
+- [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (1 day ago)
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d is a Kubernetes-native high-performance distributed LLM inference framework (5 days ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 week ago)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (3 weeks ago)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions. (1 month ago)
-- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (1 month ago)
+- [psviderski/uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ (2 months ago)
 - [ErikKaum/beanbox-vm](https://github.com/ErikKaum/beanbox-vm) - A microVM for LLMs and humans (2 months ago)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 months ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (2 months ago)
