@@ -46,7 +46,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (2 months ago)
 - [heroku/libcnb.rs](https://github.com/heroku/libcnb.rs) - A framework for writing Cloud Native Buildpacks in Rust (2 months ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (3 months ago)
-- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 The open-source alternative to Durable Objects. Rivet Actors provide long-lived processes with durable state, realtime, and scalability. (3 months ago)
+- [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - Scale and orchestrate RivetKit (3 months ago)
 - [spacekookie/nixlings](https://github.com/spacekookie/nixlings) - ❄️ Small exercises to get you used to reading and writing Nix code! (3 months ago)
 
 #### 👷 Check out what I'm currently working on
