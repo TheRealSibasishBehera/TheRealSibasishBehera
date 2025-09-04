@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (today)
 - [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 weeks ago)
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 months ago)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (2 years ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (2 years ago)
 - [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (2 years ago)
-- [introducing LogPath and fixing README](https://github.com/keploy/keploy/pull/455) on [keploy/keploy](https://github.com/keploy/keploy) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
