@@ -51,8 +51,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (today)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 days ago)
-- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (6 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (1 month ago)
 - [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (2 months ago)
