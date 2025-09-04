@@ -14,7 +14,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (2 months ago)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (4 months ago)
-- [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (4 months ago)
+- [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (5 months ago)
 - [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (7 months ago)
 - [fix: Use storage class from annotation for host-assisted PVC operation](https://github.com/kubevirt/containerized-data-importer/pull/3585) on [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) (7 months ago)
 - [Feat/vol snapshots](https://github.com/civo/civogo/pull/226) on [civo/civogo](https://github.com/civo/civogo) (9 months ago)
@@ -51,8 +51,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 day ago)
-- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (5 days ago)
+- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 days ago)
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (6 days ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (1 month ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (1 month ago)
 - [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (2 months ago)
