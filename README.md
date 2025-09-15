@@ -33,6 +33,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (today)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (1 week ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (1 week ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹 (1 week ago)
@@ -47,7 +48,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access. (2 months ago)
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner (3 months ago)
 - [containers/libkrun](https://github.com/containers/libkrun) - A dynamic library providing Virtualization-based process isolation capabilities (3 months ago)
-- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration between Claude Code AI assistant and Neovim (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
