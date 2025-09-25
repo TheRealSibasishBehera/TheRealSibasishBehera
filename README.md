@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 weeks ago)
+- [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (3 weeks ago)
 - [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 months ago)
@@ -52,7 +52,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### 👷 Check out what I'm currently working on
 
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
-- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (2 weeks ago)
+- [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (3 weeks ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (2 months ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 months ago)
 - [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (3 months ago)
