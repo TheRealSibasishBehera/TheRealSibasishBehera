@@ -40,7 +40,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (2 weeks ago)
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹 (2 weeks ago)
-- [trycua/cua](https://github.com/trycua/cua) - Cua is Docker for Computer-Use AI Agents (3 weeks ago)
+- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). (3 weeks ago)
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (1 month ago)
 - [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d enables high-performance distributed LLM inference on Kubernetes (1 month ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (1 month ago)
