@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (today)
 - [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (3 weeks ago)
 - [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Added docs for alerts in kubearmor-graphana-loki](https://github.com/Chinwendu20/kubearmor-dashboards/pull/1) on [Chinwendu20/kubearmor-dashboards](https://github.com/Chinwendu20/kubearmor-dashboards) (2 years ago)
 - [Added manifests and docs for loki-graphana support](https://github.com/Chinwendu20/OTel-receiver/pull/1) on [Chinwendu20/OTel-receiver](https://github.com/Chinwendu20/OTel-receiver) (2 years ago)
 - [Added manifests and docs for elasticsearch-kibana support](https://github.com/kubearmor/kubearmor-dashboards/pull/1) on [kubearmor/kubearmor-dashboards](https://github.com/kubearmor/kubearmor-dashboards) (2 years ago)
-- [Elastisearch client in Relay server](https://github.com/kubearmor/kubearmor-relay-server/pull/31) on [kubearmor/kubearmor-relay-server](https://github.com/kubearmor/kubearmor-relay-server) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
@@ -51,9 +51,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
+- [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (today)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (3 weeks ago)
-- [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (2 months ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 months ago)
-- [TheRealSibasishBehera/init-go](https://github.com/TheRealSibasishBehera/init-go) - A lightweight MicroVM init system (3 months ago)
+- [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (2 months ago)
 
