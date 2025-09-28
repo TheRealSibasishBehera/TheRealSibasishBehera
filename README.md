@@ -10,8 +10,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (today)
-- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (today)
+- [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 day ago)
+- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (1 day ago)
 - [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (3 weeks ago)
 - [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
 - [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
@@ -33,13 +33,13 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (today)
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (2 days ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 day ago)
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (3 days ago)
 - [oasis-tcs/virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee (1 week ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
 - [kube-rs/kube](https://github.com/kube-rs/kube) - Rust Kubernetes client and controller runtime (1 week ago)
 - [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) - The financial transactions database designed for mission critical safety and performance. (2 weeks ago)
-- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (2 weeks ago)
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful (3 weeks ago)
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹 (3 weeks ago)
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). (3 weeks ago)
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (1 month ago)
@@ -51,8 +51,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (today)
-- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 weeks ago)
+- [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (1 day ago)
+- [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (3 weeks ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (3 weeks ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (2 months ago)
 - [TheRealSibasishBehera/syncsh](https://github.com/TheRealSibasishBehera/syncsh) -  (2 months ago)
