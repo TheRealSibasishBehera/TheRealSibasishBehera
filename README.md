@@ -10,12 +10,12 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (5 days ago)
-- [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 week ago)
-- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (1 week ago)
+- [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (6 days ago)
+- [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 weeks ago)
+- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (2 weeks ago)
 - [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
 - [feat: dynamically extract agentgateway version from go.mod](https://github.com/kgateway-dev/kgateway/pull/12041) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
-- [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (3 months ago)
+- [feat(share/shrex): add context cancellation to shrexeds and shrexnd clients](https://github.com/celestiaorg/celestia-node/pull/4324) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (4 months ago)
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (5 months ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (5 months ago)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (6 months ago)
@@ -33,11 +33,11 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (6 days ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 week ago)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite. (1 week ago)
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom) - A workbench for writing toy implementations of distributed systems. (1 week ago)
 - [virtual-kubelet/virtual-kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Virtual Kubelet is an open source Kubernetes kubelet implementation. (1 week ago)
-- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (1 week ago)
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 weeks ago)
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (2 weeks ago)
 - [oasis-tcs/virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee (3 weeks ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (3 weeks ago)
@@ -47,13 +47,13 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹 (1 month ago)
 - [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). (1 month ago)
 - [containerd/nydus-snapshotter](https://github.com/containerd/nydus-snapshotter) - A containerd snapshotter with data deduplication and lazy loading in P2P fashion (1 month ago)
-- [llm-d/llm-d](https://github.com/llm-d/llm-d) - llm-d enables high-performance distributed LLM inference on Kubernetes (1 month ago)
+- [llm-d/llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (4 days ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (5 days ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (1 week ago)
-- [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (1 week ago)
+- [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (2 weeks ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 month ago)
 - [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) - Celestia Data Availability Nodes (3 months ago)
 
