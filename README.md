@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (6 days ago)
+- [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (1 week ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 weeks ago)
 - [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (2 weeks ago)
 - [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
@@ -51,7 +51,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (5 days ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (6 days ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (1 week ago)
 - [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) -  (2 weeks ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (1 month ago)
