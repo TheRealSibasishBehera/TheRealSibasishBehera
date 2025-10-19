@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [WIP: Add extproc translation in the agentgateway traffic policy plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (today)
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (6 days ago)
 - [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (2 weeks ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (3 weeks ago)
@@ -29,7 +30,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (1 year ago)
 - [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (1 year ago)
 - [refactor: Replace deprecated NewRandomVirtualMachine* functions by using libvmi directly](https://github.com/kubevirt/kubevirt/pull/11621) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (2 years ago)
-- [ refactor: drop GetPodByVirtualMachineInstance,getPodsByLabel . Use `libpod.GetPodByVirtualMachineInstance` instead at all its callers.](https://github.com/kubevirt/kubevirt/pull/11474) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
