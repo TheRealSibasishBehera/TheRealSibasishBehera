@@ -39,7 +39,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (2 weeks ago)
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS) (3 weeks ago)
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system (3 weeks ago)
-- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (4 weeks ago)
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (1 month ago)
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes (1 month ago)
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (1 month ago)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite. (1 month ago)
