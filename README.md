@@ -34,7 +34,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### ⭐ Check out my recent stars
 
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (2 weeks ago)
-- [looplab/fsm](https://github.com/looplab/fsm) - Finite State Machine for Go (2 weeks ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (2 weeks ago)
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.  (3 weeks ago)
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS) (4 weeks ago)
@@ -48,6 +47,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (2 months ago)
 - [oasis-tcs/virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee (2 months ago)
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
