@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (1 month ago)
+- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 months ago)
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (2 months ago)
 - [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (2 months ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (2 months ago)
@@ -33,8 +33,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (today)
-- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (today)
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (1 day ago)
+- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (1 day ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 week ago)
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (1 month ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (1 month ago)
