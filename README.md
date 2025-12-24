@@ -33,8 +33,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (6 days ago)
-- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (6 days ago)
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (1 week ago)
+- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (1 week ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (2 weeks ago)
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (1 month ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (1 month ago)
@@ -45,7 +45,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (2 months ago)
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite. (2 months ago)
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord (2 months ago)
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (2 months ago)
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (3 months ago)
 - [oasis-tcs/virtio-spec](https://github.com/oasis-tcs/virtio-spec) - OASIS Virtual I/O Device TC: Source code for the VIRTIO (Virtual I/O) Specification maintained by the OASIS Virtual I/O Device (VIRTIO) Technical Committee (3 months ago)
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (3 months ago)
 
