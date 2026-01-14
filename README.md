@@ -28,7 +28,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [PCI DRA driver](https://github.com/kubevirt/dra-pci-driver/pull/1) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (1 year ago)
 - [Add TheRealSibasishBehera to KubeVirt Members](https://github.com/kubevirt/project-infra/pull/3578) on [kubevirt/project-infra](https://github.com/kubevirt/project-infra) (1 year ago)
 - [Add support for ResourceClaim in  HostDevices](https://github.com/kubevirt/kubevirt/pull/12533) on [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) (1 year ago)
-- [Introducing KubeVirt Dynamic Resource Allocation (DRA) Driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver/pull/1) on [TheRealSibasishBehera/kubevirt-dra-driver](https://github.com/TheRealSibasishBehera/kubevirt-dra-driver) (2 years ago)
 
 #### ⭐ Check out my recent stars
 
