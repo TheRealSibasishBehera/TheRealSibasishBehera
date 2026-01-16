@@ -21,7 +21,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [feat(api): allow configurable CORS policy](https://github.com/celestiaorg/celestia-node/pull/4266) on [celestiaorg/celestia-node](https://github.com/celestiaorg/celestia-node) (8 months ago)
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (8 months ago)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (9 months ago)
-- [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (11 months ago)
+- [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (1 year ago)
 - [fix: Use storage class from annotation for host-assisted PVC operation](https://github.com/kubevirt/containerized-data-importer/pull/3585) on [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) (1 year ago)
 - [Feat/vol snapshots](https://github.com/civo/civogo/pull/226) on [civo/civogo](https://github.com/civo/civogo) (1 year ago)
 - [Update dependancy and add grub change instruction](https://github.com/kubevirt/dra-pci-driver/pull/5) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (1 year ago)
@@ -31,12 +31,13 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 day ago)
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (2 days ago)
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (3 days ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (1 week ago)
 - [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (2 weeks ago)
-- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (4 weeks ago)
-- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (4 weeks ago)
+- [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image (1 month ago)
+- [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane) - Go implementation of data-plane-api (1 month ago)
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. (1 month ago)
 - [tursodatabase/agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents. (2 months ago)
 - [cockroachdb/pebble](https://github.com/cockroachdb/pebble) - RocksDB/LevelDB inspired key-value database in Go (2 months ago)
@@ -45,7 +46,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (2 months ago)
 - [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes (2 months ago)
 - [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (3 months ago)
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite. (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
