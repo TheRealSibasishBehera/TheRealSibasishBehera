@@ -31,6 +31,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance (today)
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers (today)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (4 days ago)
@@ -45,7 +46,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [flynn/flynn](https://github.com/flynn/flynn) - [UNMAINTAINED] A next generation open source platform as a service (PaaS) (2 months ago)
 - [coreos/fleet](https://github.com/coreos/fleet) - fleet ties together systemd and etcd into a distributed init system (2 months ago)
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers (2 months ago)
-- [smartxworks/virtink](https://github.com/smartxworks/virtink) - Lightweight Virtualization Add-on for Kubernetes (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
