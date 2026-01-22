@@ -31,11 +31,11 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (2 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
-- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance (3 days ago)
-- [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers (3 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
+- [charmbracelet/huh](https://github.com/charmbracelet/huh) - Build terminal forms and prompts 🤷🏻‍♀️ (3 days ago)
+- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (4 days ago)
+- [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance (4 days ago)
+- [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers (4 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 week ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (2 weeks ago)
