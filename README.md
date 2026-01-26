@@ -31,6 +31,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (today)
 - [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. (1 day ago)
 - [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Lightweight Durable Golang Workflows (3 days ago)
 - [microsoft/durabletask-go](https://github.com/microsoft/durabletask-go) - The Durable Task Framework is a lightweight, embeddable engine for writing durable, fault-tolerant business logic (orchestrations) as ordinary code. (3 days ago)
@@ -45,7 +46,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (1 week ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (1 week ago)
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (2 weeks ago)
-- [go-acme/lego](https://github.com/go-acme/lego) - Let&#39;s Encrypt/ACME client and library written in Go (4 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
