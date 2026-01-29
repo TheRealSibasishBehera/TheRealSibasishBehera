@@ -26,7 +26,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (1 year ago)
 - [fix: Use storage class from annotation for host-assisted PVC operation](https://github.com/kubevirt/containerized-data-importer/pull/3585) on [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) (1 year ago)
 - [Feat/vol snapshots](https://github.com/civo/civogo/pull/226) on [civo/civogo](https://github.com/civo/civogo) (1 year ago)
-- [Update dependancy and add grub change instruction](https://github.com/kubevirt/dra-pci-driver/pull/5) on [kubevirt/dra-pci-driver](https://github.com/kubevirt/dra-pci-driver) (1 year ago)
 
 #### ⭐ Check out my recent stars
 
@@ -48,9 +47,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
+- [iris-xyz/depot-kvm-test](https://github.com/iris-xyz/depot-kvm-test) - Testing KVM support on Depot GitHub Actions runners (today)
 - [TheRealSibasishBehera/github-actions-hwo](https://github.com/TheRealSibasishBehera/github-actions-hwo) - Task Manager API - Go application with Docker and GitHub Actions CI/CD (5 days ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (3 weeks ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 months ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 months ago)
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (3 months ago)
 
