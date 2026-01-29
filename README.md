@@ -30,6 +30,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (today)
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (3 days ago)
 - [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. (4 days ago)
 - [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Lightweight Durable Golang Workflows (6 days ago)
@@ -44,7 +45,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 weeks ago)
 - [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (2 weeks ago)
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline. (2 weeks ago)
-- [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
