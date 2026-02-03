@@ -27,10 +27,10 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (2 days ago)
-- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 days ago)
-- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 days ago)
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (4 days ago)
+- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (3 days ago)
+- [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (3 days ago)
+- [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (3 days ago)
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (5 days ago)
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (1 week ago)
 - [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. (1 week ago)
 - [dbos-inc/dbos-transact-golang](https://github.com/dbos-inc/dbos-transact-golang) - Lightweight Durable Golang Workflows (1 week ago)
@@ -45,9 +45,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [iris-xyz/depot-kvm-test](https://github.com/iris-xyz/depot-kvm-test) - Testing KVM support on Depot GitHub Actions runners (4 days ago)
+- [iris-xyz/depot-kvm-test](https://github.com/iris-xyz/depot-kvm-test) - Testing KVM support on Depot GitHub Actions runners (5 days ago)
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway (1 month ago)
 - [TheRealSibasishBehera/dotfiles](https://github.com/TheRealSibasishBehera/dotfiles) -  (2 months ago)
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers (3 months ago)
-- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (3 months ago)
+- [slatedb/slatedb](https://github.com/slatedb/slatedb) - A cloud native embedded storage engine built on object storage. (4 months ago)
 
