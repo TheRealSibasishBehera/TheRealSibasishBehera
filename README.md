@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (today)
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (2 days ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 days ago)
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [CodSpeedHQ/codspeed](https://github.com/CodSpeedHQ/codspeed) - CodSpeed is the all-in-one performance testing toolkit. Optimize code performance and catch regressions early. (2 weeks ago)
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance (3 weeks ago)
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers (3 weeks ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
