@@ -40,7 +40,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (2 weeks ago)
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 weeks ago)
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 weeks ago)
-- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (2 weeks ago)
+- [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative (2 weeks ago)
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
