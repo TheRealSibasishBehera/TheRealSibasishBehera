@@ -27,6 +27,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (today)
+- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (today)
 - [erofs/go-erofs](https://github.com/erofs/go-erofs) -  (1 day ago)
 - [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 day ago)
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - An OCI container runtime monitor. (1 week ago)
@@ -40,8 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 weeks ago)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A drop-in, 5-20x faster, experimental Homebrew alternative (2 weeks ago)
 - [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (2 weeks ago)
-- [Azure/durabletask](https://github.com/Azure/durabletask) - Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities. (3 weeks ago)
-- [microsoft/durabletask-go](https://github.com/microsoft/durabletask-go) - The Durable Task Framework is a lightweight, embeddable engine for writing durable, fault-tolerant business logic (orchestrations) as ordinary code. (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
