@@ -11,7 +11,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### 🔨 Check out my recent pull requests
 
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (1 week ago)
-- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (3 months ago)
+- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (4 months ago)
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (4 months ago)
 - [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (4 months ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (4 months ago)
@@ -27,10 +27,10 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (today)
-- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (today)
-- [erofs/go-erofs](https://github.com/erofs/go-erofs) -  (1 day ago)
-- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (1 day ago)
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 day ago)
+- [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (1 day ago)
+- [erofs/go-erofs](https://github.com/erofs/go-erofs) -  (2 days ago)
+- [opencontainers/runtime-spec](https://github.com/opencontainers/runtime-spec) - OCI Runtime Specification (2 days ago)
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - An OCI container runtime monitor. (1 week ago)
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust (1 week ago)
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (1 week ago)
@@ -41,7 +41,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go (2 weeks ago)
 - [k3s-io/kine](https://github.com/k3s-io/kine) - Run Kubernetes on MySQL, Postgres, sqlite, not etcd. (2 weeks ago)
 - [lucasgelfond/zerobrew](https://github.com/lucasgelfond/zerobrew) - A 5-20x faster experimental Homebrew alternative (2 weeks ago)
-- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (2 weeks ago)
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
