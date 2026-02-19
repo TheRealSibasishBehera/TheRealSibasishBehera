@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [aws-samples/s3xz-caching-solution](https://github.com/aws-samples/s3xz-caching-solution) - Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets. (today)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (today)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (2 days ago)
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (2 days ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (1 week ago)
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
-- [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
