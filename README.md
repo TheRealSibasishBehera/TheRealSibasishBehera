@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (today)
 - [aws-samples/s3xz-caching-solution](https://github.com/aws-samples/s3xz-caching-solution) - Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets. (1 day ago)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (1 day ago)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (3 days ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (1 week ago)
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (1 week ago)
 - [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (2 weeks ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
