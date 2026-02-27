@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (today)
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (1 week ago)
 - [aws-samples/s3xz-caching-solution](https://github.com/aws-samples/s3xz-caching-solution) - Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets. (1 week ago)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust (2 weeks ago)
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (2 weeks ago)
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (2 weeks ago)
-- [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup &amp; Restore (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
