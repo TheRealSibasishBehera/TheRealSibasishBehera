@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training. (today)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (2 days ago)
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (1 week ago)
 - [aws-samples/s3xz-caching-solution](https://github.com/aws-samples/s3xz-caching-solution) - Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets. (1 week ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [containers/conmon-rs](https://github.com/containers/conmon-rs) - An OCI container runtime monitor. (3 weeks ago)
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust (3 weeks ago)
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.   (3 weeks ago)
-- [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane (3 weeks ago)
 
 #### 👷 Check out what I'm currently working on
 
