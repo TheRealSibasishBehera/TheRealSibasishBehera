@@ -11,7 +11,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 #### 🔨 Check out my recent pull requests
 
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (1 month ago)
-- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (4 months ago)
+- [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (5 months ago)
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (5 months ago)
 - [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (5 months ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (5 months ago)
@@ -34,7 +34,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (3 weeks ago)
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (4 weeks ago)
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (4 weeks ago)
-- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra® (4 weeks ago)
+- [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra® (1 month ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 month ago)
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (1 month ago)
 - [erofs/go-erofs](https://github.com/erofs/go-erofs) -  (1 month ago)
