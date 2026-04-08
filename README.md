@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (today)
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (1 week ago)
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (2 weeks ago)
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine (2 weeks ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra® (1 month ago)
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (1 month ago)
 - [davmac314/dinit](https://github.com/davmac314/dinit) - Service monitoring / &#34;init&#34; system (1 month ago)
-- [erofs/go-erofs](https://github.com/erofs/go-erofs) -  (1 month ago)
 
 #### 👷 Check out what I'm currently working on
 
