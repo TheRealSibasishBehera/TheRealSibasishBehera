@@ -27,8 +27,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 day ago)
-- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (6 days ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 days ago)
+- [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (1 week ago)
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (2 weeks ago)
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (3 weeks ago)
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine (3 weeks ago)
