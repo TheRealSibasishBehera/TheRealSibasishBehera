@@ -27,6 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [TheRealSibasishBehera/go-workflows](https://github.com/TheRealSibasishBehera/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (today)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (4 days ago)
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (1 week ago)
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (2 weeks ago)
@@ -41,7 +42,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (1 month ago)
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust (1 month ago)
 - [apache/cassandra-gocql-driver](https://github.com/apache/cassandra-gocql-driver) - GoCQL Driver for Apache Cassandra® (2 months ago)
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils &amp; a custom init) (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
