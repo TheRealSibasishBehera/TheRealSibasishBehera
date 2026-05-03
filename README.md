@@ -23,7 +23,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [rename --local flag to --custom for diskimages](https://github.com/civo/cli/pull/538) on [civo/cli](https://github.com/civo/cli) (1 year ago)
 - [add docs for custom diskimage feature](https://github.com/civo/docs/pull/151) on [civo/docs](https://github.com/civo/docs) (1 year ago)
 - [Update fakeclient interface for volumesnapshot](https://github.com/civo/civogo/pull/231) on [civo/civogo](https://github.com/civo/civogo) (1 year ago)
-- [fix: Use storage class from annotation for host-assisted PVC operation](https://github.com/kubevirt/containerized-data-importer/pull/3585) on [kubevirt/containerized-data-importer](https://github.com/kubevirt/containerized-data-importer) (1 year ago)
 
 #### ⭐ Check out my recent stars
 
