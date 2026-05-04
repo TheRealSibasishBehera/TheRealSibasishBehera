@@ -15,8 +15,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (6 months ago)
 - [docs: add example and documentation for GCS support](https://github.com/slatedb/slatedb/pull/927) on [slatedb/slatedb](https://github.com/slatedb/slatedb) (7 months ago)
 - [refactor: add imports entry for api/settings](https://github.com/kgateway-dev/kgateway/pull/12446) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (7 months ago)
-- [new change in common](https://github.com/TheRealSibasishBehera/jj-tut-new/pull/1) on [TheRealSibasishBehera/jj-tut-new](https://github.com/TheRealSibasishBehera/jj-tut-new) (7 months ago)
-- [chore: remove unused modfile parser module](https://github.com/kgateway-dev/kgateway/pull/12198) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (8 months ago)
 
 #### ⭐ Check out my recent stars
 
