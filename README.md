@@ -27,7 +27,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (1 month ago)
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (1 month ago)
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine (1 month ago)
-- [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift&#39;n&#39;shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.  (1 month ago)
+- [always-further/nono](https://github.com/always-further/nono) - Capability-based sandboxes with fine-grained policies The next-generation isolation primitive — brokering access directly within the agent&#39;s operating context, with zero setup and zero latency (1 month ago)
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. (2 months ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (2 months ago)
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (2 months ago)
