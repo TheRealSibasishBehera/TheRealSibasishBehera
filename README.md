@@ -18,6 +18,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (today)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (5 days ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (2 weeks ago)
 - [TheRealSibasishBehera/go-workflows](https://github.com/TheRealSibasishBehera/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (2 weeks ago)
@@ -32,7 +33,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (2 months ago)
 - [aws-samples/s3xz-caching-solution](https://github.com/aws-samples/s3xz-caching-solution) - Reference Architecture to automate the use of S3 Express One Zone as a caching layer for S3 Regional Buckets. (2 months ago)
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs) - Finally, a good FUSE FS implementation over S3 (2 months ago)
-- [sfackler/r2d2](https://github.com/sfackler/r2d2) - A generic connection pool for Rust (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
