@@ -17,10 +17,10 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (today)
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 days ago)
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (1 day ago)
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (3 days ago)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (2 weeks ago)
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (2 weeks ago)
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (3 weeks ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (1 month ago)
 - [TheRealSibasishBehera/go-workflows](https://github.com/TheRealSibasishBehera/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (1 month ago)
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 month ago)
