@@ -17,6 +17,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (today)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (1 week ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (1 week ago)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (3 weeks ago)
@@ -31,7 +32,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent&#39;s operating context, with zero setup and zero latency (2 months ago)
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents. (3 months ago)
 - [k8snetworkplumbingwg/multus-cni](https://github.com/k8snetworkplumbingwg/multus-cni) - A CNI meta-plugin for multi-homed pods in Kubernetes (3 months ago)
-- [containers/fuse-overlayfs](https://github.com/containers/fuse-overlayfs) -  FUSE implementation for overlayfs (3 months ago)
 
 #### 👷 Check out what I'm currently working on
 
