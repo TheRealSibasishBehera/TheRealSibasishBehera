@@ -17,11 +17,11 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (today)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (today)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 day ago)
+- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (1 day ago)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (1 day ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 days ago)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (1 week ago)
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (1 week ago)
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 weeks ago)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (3 weeks ago)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (1 month ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (1 month ago)
@@ -35,7 +35,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (4 days ago)
+- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (5 days ago)
 - [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (2 weeks ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (2 weeks ago)
 - [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) - An authoritative DNS server backed by Corrosion  (3 months ago)
