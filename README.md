@@ -10,19 +10,20 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (2 weeks ago)
+- [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (3 weeks ago)
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (3 months ago)
 - [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (7 months ago)
 - [Add ExtProc policy configuration and XDS conversion](https://github.com/agentgateway/agentgateway/pull/535) on [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) (7 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (1 day ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (1 day ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 days ago)
+- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (today)
+- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (2 days ago)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (2 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (3 days ago)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (1 week ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 weeks ago)
-- [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (3 weeks ago)
+- [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (4 weeks ago)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (1 month ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (1 month ago)
 - [TheRealSibasishBehera/go-workflows](https://github.com/TheRealSibasishBehera/go-workflows) - Embedded durable workflows for Golang similar to DTFx/Cadence/Temporal (1 month ago)
@@ -31,11 +32,10 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (2 months ago)
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (2 months ago)
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine (2 months ago)
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent&#39;s operating context, with zero setup and zero latency (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (5 days ago)
+- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (6 days ago)
 - [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (2 weeks ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (2 weeks ago)
 - [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) - An authoritative DNS server backed by Corrosion  (3 months ago)
