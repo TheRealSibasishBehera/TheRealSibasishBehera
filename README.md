@@ -17,6 +17,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (today)
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (1 day ago)
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (3 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (3 days ago)
@@ -31,7 +32,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (2 months ago)
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (2 months ago)
 - [synadia-io/nex](https://github.com/synadia-io/nex) - The NATS execution engine (2 months ago)
-- [always-further/nono](https://github.com/always-further/nono) - Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent&#39;s operating context, with zero setup and zero latency (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
