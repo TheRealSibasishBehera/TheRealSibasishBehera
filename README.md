@@ -10,18 +10,18 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 day ago)
+- [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (2 days ago)
 - [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (3 weeks ago)
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (4 months ago)
 - [agentgateway: add e2e test for extproc plugin](https://github.com/kgateway-dev/kgateway/pull/12667) on [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) (7 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (1 day ago)
-- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (2 days ago)
-- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (4 days ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (4 days ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (5 days ago)
+- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (2 days ago)
+- [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (3 days ago)
+- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (5 days ago)
+- [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (5 days ago)
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (6 days ago)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 weeks ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 weeks ago)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (1 month ago)
@@ -35,9 +35,9 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 👷 Check out what I'm currently working on
 
-- [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (today)
+- [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (1 day ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (1 week ago)
 - [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (3 weeks ago)
-- [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) - An authoritative DNS server backed by Corrosion  (3 months ago)
+- [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) - An authoritative DNS server backed by Corrosion  (4 months ago)
 - [iris-xyz/depot-kvm-test](https://github.com/iris-xyz/depot-kvm-test) - Testing KVM support on Depot GitHub Actions runners (4 months ago)
 
