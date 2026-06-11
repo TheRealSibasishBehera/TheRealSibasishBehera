@@ -10,20 +10,21 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
-- [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (6 days ago)
+- [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 days ago)
+- [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 week ago)
 - [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (4 weeks ago)
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (4 months ago)
 
 #### ⭐ Check out my recent stars
 
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (3 days ago)
-- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (6 days ago)
+- [acozzette/BUSE](https://github.com/acozzette/BUSE) - A block device in user space for Linux (1 day ago)
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Tool to build &amp; run portable, lightweight, self-contained virtual machines. (4 days ago)
+- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (1 week ago)
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (1 week ago)
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (1 week ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (1 week ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 week ago)
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 weeks ago)
+- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (3 weeks ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (3 weeks ago)
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (1 month ago)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. Initially built for www.merklemap.com (1 month ago)
@@ -31,13 +32,12 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 month ago)
 - [basho/riak](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies. (2 months ago)
 - [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (2 months ago)
-- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit) - delegated, decentralized, capabilities based authorization token (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
-- [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (5 days ago)
-- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (1 week ago)
-- [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (3 weeks ago)
+- [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (6 days ago)
+- [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (2 weeks ago)
+- [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (4 weeks ago)
 - [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) - An authoritative DNS server backed by Corrosion  (4 months ago)
 - [iris-xyz/depot-kvm-test](https://github.com/iris-xyz/depot-kvm-test) - Testing KVM support on Depot GitHub Actions runners (4 months ago)
 
