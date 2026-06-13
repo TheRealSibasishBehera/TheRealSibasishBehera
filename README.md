@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
 - [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 week ago)
 - [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 month ago)
