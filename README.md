@@ -10,6 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(network): support secret substitution through HTTP CONNECT tunnels](https://github.com/superradcompany/microsandbox/pull/984) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
 - [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 week ago)
