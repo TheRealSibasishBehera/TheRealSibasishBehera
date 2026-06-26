@@ -10,7 +10,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix/connect dns cache pin](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
+- [fix(network): substitute secrets through CONNECT proxies](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
 - [feat(network): support secret substitution through HTTP CONNECT tunnels](https://github.com/superradcompany/microsandbox/pull/984) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
