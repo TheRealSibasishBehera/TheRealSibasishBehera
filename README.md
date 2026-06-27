@@ -20,6 +20,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows. (today)
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool (2 weeks ago)
 - [NetworkBlockDevice/nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device (2 weeks ago)
 - [acozzette/BUSE](https://github.com/acozzette/BUSE) - A block device in user space for Linux (2 weeks ago)
@@ -34,7 +35,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (1 month ago)
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS - ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. (1 month ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (2 months ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
