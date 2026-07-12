@@ -15,7 +15,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 weeks ago)
 - [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 month ago)
 - [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 month ago)
-- [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (1 month ago)
+- [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (2 months ago)
 - [Add source-IP group filtering for AAAA queries](https://github.com/iris-xyz/corrosion-dns/pull/1) on [iris-xyz/corrosion-dns](https://github.com/iris-xyz/corrosion-dns) (5 months ago)
 
 #### ⭐ Check out my recent stars
