@@ -21,6 +21,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (today)
+- [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host. (today)
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (3 weeks ago)
 - [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows. (3 weeks ago)
 - [systemd/casync](https://github.com/systemd/casync) - Content-Addressable Data Synchronization Tool (1 month ago)
@@ -34,8 +36,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (1 month ago)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 months ago)
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 months ago)
-- [boldsoftware/shelley](https://github.com/boldsoftware/shelley) - Shelley is a coding agent (2 months ago)
-- [Barre/ZeroFS](https://github.com/Barre/ZeroFS) - ZeroFS: A log-structured filesystem for S3.  ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD.  (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
