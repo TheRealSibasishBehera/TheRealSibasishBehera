@@ -21,6 +21,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (today)
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (1 week ago)
 - [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host. (1 week ago)
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 month ago)
@@ -35,7 +36,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (2 months ago)
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 months ago)
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 months ago)
-- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) - a smol tcp/ip stack (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
