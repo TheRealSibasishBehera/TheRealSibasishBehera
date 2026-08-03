@@ -21,6 +21,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (today)
+- [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (today)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (today)
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (1 week ago)
 - [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host. (1 week ago)
@@ -34,8 +36,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (2 months ago)
 - [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (2 months ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - Search infrastructure for AI (2 months ago)
-- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program (2 months ago)
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
