@@ -22,6 +22,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (today)
 - [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 day ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 week ago)
 - [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (1 week ago)
@@ -36,7 +37,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine. (2 months ago)
 - [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (2 months ago)
 - [zerobootdev/zeroboot](https://github.com/zerobootdev/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (2 months ago)
-- [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) - BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
