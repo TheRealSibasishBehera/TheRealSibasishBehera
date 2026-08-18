@@ -22,8 +22,8 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (6 days ago)
-- [containers/netavark](https://github.com/containers/netavark) - Container network stack (6 days ago)
+- [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (1 week ago)
+- [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 week ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 week ago)
 - [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 week ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (2 weeks ago)
