@@ -22,6 +22,7 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
+- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (today)
 - [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (1 week ago)
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 week ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 week ago)
@@ -36,7 +37,6 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 - [NetworkBlockDevice/nbd](https://github.com/NetworkBlockDevice/nbd) - Network Block Device (2 months ago)
 - [acozzette/BUSE](https://github.com/acozzette/BUSE) - A block device in user space for Linux (2 months ago)
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine. (2 months ago)
-- [pjd/pjdfstest](https://github.com/pjd/pjdfstest) - File system test suite. (2 months ago)
 
 #### 👷 Check out what I'm currently working on
 
