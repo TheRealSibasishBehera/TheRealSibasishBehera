@@ -22,11 +22,11 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (today)
+- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (1 day ago)
 - [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (1 week ago)
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 week ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 week ago)
-- [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 week ago)
+- [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (2 weeks ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (2 weeks ago)
 - [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (2 weeks ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (2 weeks ago)
