@@ -22,14 +22,14 @@ Hi 👋 ! Sibasish here <br><br> Software Engineer working around distributed sy
 
 #### ⭐ Check out my recent stars
 
-- [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (today)
-- [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (today)
+- [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 day ago)
+- [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (1 day ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (2 weeks ago)
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (2 weeks ago)
-- [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (3 weeks ago)
-- [containers/netavark](https://github.com/containers/netavark) - Container network stack (3 weeks ago)
+- [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (4 weeks ago)
+- [containers/netavark](https://github.com/containers/netavark) - Container network stack (4 weeks ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (4 weeks ago)
-- [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (4 weeks ago)
+- [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 month ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
 - [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (1 month ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (1 month ago)
