@@ -22,6 +22,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (today)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 day ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (3 days ago)
 - [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (3 days ago)
@@ -36,7 +37,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (1 month ago)
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (1 month ago)
 - [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host. (1 month ago)
-- [abshkbh/arrakis](https://github.com/abshkbh/arrakis) - A fully customizable and self-hosted sandboxing solution for AI agent code execution and computer use. It features out-of-the-box support for backtracking, a simple REST API and Python SDK, automatic port forwarding, and secure MicroVM isolation. Perfect for safely running, testing, and backtracking multi-step agent workflows. (2 months ago)
 
 #### Currently working on
 
