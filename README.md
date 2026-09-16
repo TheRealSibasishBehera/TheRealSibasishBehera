@@ -22,6 +22,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (today)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (6 days ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 week ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 week ago)
@@ -36,7 +37,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (1 month ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (1 month ago)
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (1 month ago)
-- [penberg/chimera](https://github.com/penberg/chimera) - Sandbox untrusted code with safe access to the host. (1 month ago)
 
 #### Currently working on
 
