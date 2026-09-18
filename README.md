@@ -22,6 +22,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [0sec-labs/0sec](https://github.com/0sec-labs/0sec) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (today)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (2 days ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 week ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 week ago)
@@ -36,7 +37,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
 - [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (1 month ago)
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (1 month ago)
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly &amp; V8 isolates. (1 month ago)
 
 #### Currently working on
 
