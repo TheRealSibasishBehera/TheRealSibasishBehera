@@ -22,6 +22,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (today)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestrator (today)
 - [0sec-labs/0sec](https://github.com/0sec-labs/0sec) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (2 days ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (4 days ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 week ago)
@@ -35,8 +37,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 month ago)
 - [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 month ago)
 - [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
-- [alienplatform/alien](https://github.com/alienplatform/alien) - Infrastructure for managed self-hosting (1 month ago)
-- [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents (1 month ago)
 
 #### Currently working on
 
