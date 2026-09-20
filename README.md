@@ -22,8 +22,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
-- [0sec-labs/0sec](https://github.com/0sec-labs/0sec) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (1 day ago)
-- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (3 days ago)
+- [0sec-labs/0sec](https://github.com/0sec-labs/0sec) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (2 days ago)
+- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (4 days ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 week ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 week ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 week ago)
