@@ -12,7 +12,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 - [V1 changes](https://github.com/TheRealSibasishBehera/msb-operator/pull/2) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (1 month ago)
 - [docs(operator): operator design document](https://github.com/TheRealSibasishBehera/msb-operator/pull/1) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (2 months ago)
-- [fix(network): substitute secrets through CONNECT proxies](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 months ago)
+- [fix(network): substitute secrets through CONNECT proxies](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
 - [feat(network): support secret substitution through HTTP CONNECT tunnels](https://github.com/superradcompany/microsandbox/pull/984) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
 - [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
 - [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
@@ -22,16 +22,16 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
-- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (today)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestrator (today)
-- [0sec-labs/0sec](https://github.com/0sec-labs/0sec) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (2 days ago)
-- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (4 days ago)
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 day ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestrator (1 day ago)
+- [0sec-labs/0](https://github.com/0sec-labs/0) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (3 days ago)
+- [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (5 days ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 week ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 week ago)
-- [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 week ago)
-- [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (1 week ago)
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (3 weeks ago)
-- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (4 weeks ago)
+- [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (2 weeks ago)
+- [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (2 weeks ago)
+- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (4 weeks ago)
+- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (1 month ago)
 - [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (1 month ago)
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 month ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 month ago)
