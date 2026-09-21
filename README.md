@@ -23,7 +23,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 #### Recent stars
 
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 day ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestrator (1 day ago)
+- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (1 day ago)
 - [0sec-labs/0](https://github.com/0sec-labs/0) - We make software secure software. Find and fix vulnerabilities across your stack, 24/7. (3 days ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (5 days ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 week ago)
