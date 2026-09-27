@@ -41,7 +41,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 #### Currently working on
 
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (2 months ago)
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 fast branchable microVM for any workload (2 months ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload (2 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (3 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (4 months ago)
 - [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (4 months ago)
