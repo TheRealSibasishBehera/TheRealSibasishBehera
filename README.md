@@ -10,7 +10,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
-- [feat(sdk): route sandbox modification through the backend](https://github.com/superradcompany/microsandbox/pull/1681) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
+- [feat(sdk): route sandbox modification through the backend](https://github.com/superradcompany/microsandbox/pull/1681) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
 - [V1 changes](https://github.com/TheRealSibasishBehera/msb-operator/pull/2) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (1 month ago)
 - [docs(operator): operator design document](https://github.com/TheRealSibasishBehera/msb-operator/pull/1) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (2 months ago)
 - [fix(network): substitute secrets through CONNECT proxies](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
@@ -41,7 +41,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 #### Currently working on
 
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (2 months ago)
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy fast branchable microVM runtime and library for any workload (2 months ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime (2 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (3 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (4 months ago)
 - [iris-xyz/iris-vm-assets](https://github.com/iris-xyz/iris-vm-assets) - Firecracker kernel &#43; pit-init binaries for iris node bootstrap (4 months ago)
