@@ -22,6 +22,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (today)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 week ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (1 week ago)
 - [0sec-labs/0](https://github.com/0sec-labs/0) - A cybersecurity harness for full-stack LLM-driven penetration testing. Find and fix vulnerabilities autonomously, 24/7. [RESEARCH PREVIEW] (1 week ago)
@@ -36,7 +37,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 month ago)
 - [superradcompany/microsandbox-k8s](https://github.com/superradcompany/microsandbox-k8s) - microsandbox but on k8s (1 month ago)
 - [Dreamacro/erofs-rs](https://github.com/Dreamacro/erofs-rs) - A pure Rust library for reading and building EROFS (Enhanced Read-Only File System) images. (1 month ago)
-- [boldsoftware/meat](https://github.com/boldsoftware/meat) - meat.dev (1 month ago)
 
 #### Currently working on
 
