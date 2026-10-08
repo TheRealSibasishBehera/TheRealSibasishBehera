@@ -23,6 +23,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (today)
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (2 days ago)
 - [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (3 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
@@ -37,7 +38,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 month ago)
 - [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (1 month ago)
 - [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (1 month ago)
-- [containers/netavark](https://github.com/containers/netavark) - Container network stack (1 month ago)
 
 #### Currently working on
 
