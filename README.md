@@ -23,16 +23,16 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
-- [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (today)
-- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (2 days ago)
-- [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (3 days ago)
+- [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (1 day ago)
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (3 days ago)
+- [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (4 days ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (2 weeks ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (2 weeks ago)
-- [0sec-labs/0](https://github.com/0sec-labs/0) - Full-stack AI security OS for your browser, terminal, and agents. Find, verify, and fix vulnerabilities. (2 weeks ago)
+- [0sec-labs/0](https://github.com/0sec-labs/0) - The multiplayer AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities. (3 weeks ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (3 weeks ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (4 weeks ago)
-- [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (4 weeks ago)
+- [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 month ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 month ago)
 - [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (1 month ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 month ago)
@@ -41,7 +41,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Currently working on
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (6 days ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (1 week ago)
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (3 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (4 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (4 months ago)
