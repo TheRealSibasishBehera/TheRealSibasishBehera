@@ -23,6 +23,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (today)
+- [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient. (today)
 - [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (4 days ago)
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (6 days ago)
 - [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (1 week ago)
@@ -36,8 +38,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 month ago)
 - [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (1 month ago)
 - [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 month ago)
-- [s2-streamstore/s2](https://github.com/s2-streamstore/s2) - Durable Streams API (1 month ago)
-- [containers/aardvark-dns](https://github.com/containers/aardvark-dns) - Authoritative dns server for A/AAAA container records. Forwards other request to host&#39;s /etc/resolv.conf (2 months ago)
 
 #### Currently working on
 
