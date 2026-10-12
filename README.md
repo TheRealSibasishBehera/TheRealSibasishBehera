@@ -23,9 +23,9 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
-- [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (3 days ago)
-- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (5 days ago)
-- [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (6 days ago)
+- [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (4 days ago)
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) - Userspace WireGuard® Implementation in Rust (6 days ago)
+- [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (1 week ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 week ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (3 weeks ago)
 - [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (3 weeks ago)
