@@ -10,7 +10,9 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 {{range recentPullRequests 20}}
+{{- if ne .Repo.Name "TheRealSibasishBehera/microsandbox"}}
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 {{- end}}
 
 #### Recent stars
