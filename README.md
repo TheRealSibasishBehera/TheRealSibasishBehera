@@ -10,6 +10,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [fix(types): give nat64_prefixes a utoipa schema](https://github.com/superradcompany/microsandbox/pull/1729) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [feat(sdk): route sandbox modification through the backend](https://github.com/superradcompany/microsandbox/pull/1681) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
@@ -24,6 +25,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [ndycode/codex-multi-auth](https://github.com/ndycode/codex-multi-auth) - Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex (today)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 days ago)
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient. (2 days ago)
 - [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (6 days ago)
@@ -38,7 +40,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 month ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (1 month ago)
 - [kmesh-net/kmesh](https://github.com/kmesh-net/kmesh) - High Performance ServiceMesh Data Plane Based on eBPF and Programmable Kernel (1 month ago)
-- [citusdata/citus](https://github.com/citusdata/citus) - Distributed PostgreSQL as an extension (1 month ago)
 
 #### Currently working on
 
