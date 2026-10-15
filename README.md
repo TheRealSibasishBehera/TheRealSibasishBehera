@@ -10,18 +10,14 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
+- [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
 - [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
 - [fix(types): give nat64_prefixes a utoipa schema](https://github.com/superradcompany/microsandbox/pull/1729) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 - [feat(sdk): route sandbox modification through the backend](https://github.com/superradcompany/microsandbox/pull/1681) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 - [V1 changes](https://github.com/TheRealSibasishBehera/msb-operator/pull/2) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (2 months ago)
 - [docs(operator): operator design document](https://github.com/TheRealSibasishBehera/msb-operator/pull/1) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (3 months ago)
-- [fix(network): substitute secrets through CONNECT proxies](https://github.com/superradcompany/microsandbox/pull/1022) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 months ago)
-- [feat(network): support secret substitution through HTTP CONNECT tunnels](https://github.com/superradcompany/microsandbox/pull/984) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 months ago)
-- [fix(agentd): disable DAD for IPv6 addresses in virtual network](https://github.com/superradcompany/microsandbox/pull/977) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 months ago)
-- [fix(network): substitute secrets over plain HTTP](https://github.com/superradcompany/microsandbox/pull/940) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 months ago)
-- [feat(corrosiontest): add NewSubscriptionWithRows for initial-state testing](https://github.com/iris-xyz/go-corrosion/pull/2) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (4 months ago)
-- [feat: tracing, watch loop, schema init, Health](https://github.com/iris-xyz/go-corrosion/pull/1) on [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) (5 months ago)
 
 #### Recent stars
 
