@@ -17,7 +17,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
 - [fix(types): give nat64_prefixes a utoipa schema](https://github.com/superradcompany/microsandbox/pull/1729) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 - [feat(sdk): route sandbox modification through the backend](https://github.com/superradcompany/microsandbox/pull/1681) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
-- [V1 changes](https://github.com/TheRealSibasishBehera/msb-operator/pull/2) on [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) (2 months ago)
 
 #### Recent stars
 
