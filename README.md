@@ -28,7 +28,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [vi/wgslirpy](https://github.com/vi/wgslirpy) - User-space Wireguard gateway allowing sharing network connection from environment where usual routing rules are inaccessible. (1 week ago)
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 weeks ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (4 weeks ago)
-- [google/ax](https://github.com/google/ax) - Google&#39;s open agentic orchestration runtime (4 weeks ago)
+- [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google&#39;s open agentic orchestration runtime (4 weeks ago)
 - [0sec-labs/0](https://github.com/0sec-labs/0) - The multiplayer AI offensive security OS - open, self-improving, extensible. Find, verify, and fix vulnerabilities. (1 month ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (1 month ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 month ago)
