@@ -10,6 +10,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [feat(sdk): apply label modifications live on running sandboxes](https://github.com/superradcompany/microsandbox/pull/1881) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
 - [fix(sdk): let node and go modify set secret policy](https://github.com/superradcompany/microsandbox/pull/1880) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
 - [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 days ago)
@@ -17,7 +18,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (5 days ago)
 - [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
 - [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
-- [fix(types): give nat64_prefixes a utoipa schema](https://github.com/superradcompany/microsandbox/pull/1729) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 
 #### Recent stars
 
