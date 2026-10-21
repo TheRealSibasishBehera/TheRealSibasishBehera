@@ -10,19 +10,19 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
-- [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
-- [feat(sdk): apply label modifications live on running sandboxes](https://github.com/superradcompany/microsandbox/pull/1881) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
-- [fix(sdk): let node and go modify set secret policy](https://github.com/superradcompany/microsandbox/pull/1880) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
-- [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (4 days ago)
-- [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (5 days ago)
-- [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (5 days ago)
-- [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
-- [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
+- [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
+- [feat(sdk): apply label modifications live on running sandboxes](https://github.com/superradcompany/microsandbox/pull/1881) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
+- [fix(sdk): let node and go modify set secret policy](https://github.com/superradcompany/microsandbox/pull/1880) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
+- [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (5 days ago)
+- [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
+- [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
+- [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
+- [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 
 #### Recent stars
 
-- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (1 day ago)
-- [ndycode/codex-multi-auth](https://github.com/ndycode/codex-multi-auth) - Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex (6 days ago)
+- [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (2 days ago)
+- [ndycode/codex-multi-auth](https://github.com/ndycode/codex-multi-auth) - Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex (1 week ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (1 week ago)
 - [vicanso/pingap](https://github.com/vicanso/pingap) - A reverse proxy like nginx, built on pingora, simple and efficient. (1 week ago)
 - [strands-agents/box](https://github.com/strands-agents/box) - Run AI agents in a sandbox that restricts what they can execute, read, write, and reach on the network. Box combines OS isolation with default-deny Dogwood policies and credential injection that keeps secrets outside the agent. Written in Rust. Supports macOS on Apple silicon, with Linux support planned. (1 week ago)
@@ -39,7 +39,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Currently working on
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (today)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (1 day ago)
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (3 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (4 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (4 months ago)
