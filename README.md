@@ -10,6 +10,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [feat(sdk): use the cloud restart route](https://github.com/superradcompany/microsandbox/pull/1901) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [fix(env): set the last entry of a repeated env key](https://github.com/superradcompany/microsandbox/pull/1893) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 day ago)
 - [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
 - [feat(sdk): apply label modifications live on running sandboxes](https://github.com/superradcompany/microsandbox/pull/1881) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
