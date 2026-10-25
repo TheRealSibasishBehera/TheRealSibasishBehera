@@ -32,7 +32,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (3 weeks ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google&#39;s open agentic orchestration runtime (1 month ago)
-- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness with a local web UI for code review, vulnerability research, verification, and fixes. CLI and MCP for coding agents. (1 month ago)
+- [0sec-labs/0](https://github.com/0sec-labs/0) - The open-source AI security harness. Includes a web UI for code review, vulnerability research, reverse engineering, verification, and fixing &#43; CLI and MCP for agents. (1 month ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (1 month ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 month ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 month ago)
