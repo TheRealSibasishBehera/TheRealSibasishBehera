@@ -5,29 +5,30 @@ on:
   schedule:
     - cron: "0 */1 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   markscribe:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3
         with:
           ref: main
 
-      - uses: muesli/readme-scribe@master
+      # muesli/readme-scribe runs this image untagged; pin it so the token only reaches known code.
+      - uses: docker://fribbledom/markscribe@sha256:97576ac6779e1be65eb9a11a241f5b873b4eae065cd9a9e1f1241add2cae60f4 # latest
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "templates/README.md.tpl"
-          writeTo: "README.md"
+          args: -write README.md templates/README.md.tpl
 
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
         with:
           name: README.md
           path: README.md
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@3ea6ae190baf489ba007f7c92608f33ce20ef04a # v4
         with:
           commit_message: "Update generated README"
           branch: main
