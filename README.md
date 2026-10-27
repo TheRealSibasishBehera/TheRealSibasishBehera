@@ -18,6 +18,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
+- [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
+- [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 
 #### Recent stars
 
