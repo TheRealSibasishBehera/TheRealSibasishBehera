@@ -10,6 +10,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [docs(cloud): describe cloud resource metrics accurately](https://github.com/superradcompany/microsandbox/pull/1959) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
+- [docs(quickstart): select cloud explicitly and clean up](https://github.com/superradcompany/microsandbox/pull/1958) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [feat(sdk): use the cloud restart route](https://github.com/superradcompany/microsandbox/pull/1901) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
 - [fix(env): set the last entry of a repeated env key](https://github.com/superradcompany/microsandbox/pull/1893) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
@@ -18,8 +20,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
-- [feat: modify secrets on cloud sandboxes](https://github.com/superradcompany/microsandbox/pull/1849) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
-- [fix(cli): keep secret substitution on plain modify](https://github.com/superradcompany/microsandbox/pull/1842) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 
 #### Recent stars
 
