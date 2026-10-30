@@ -23,6 +23,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (today)
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (2 days ago)
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (1 week ago)
 - [ndycode/codex-multi-auth](https://github.com/ndycode/codex-multi-auth) - Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex (2 weeks ago)
@@ -37,7 +38,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness. Includes a web UI for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing &#43; CLI and MCP for agents. (1 month ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (1 month ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 month ago)
-- [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (1 month ago)
 
 #### Currently working on
 
