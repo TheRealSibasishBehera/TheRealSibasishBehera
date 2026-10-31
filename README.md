@@ -10,8 +10,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
-- [docs(cloud): describe cloud resource metrics accurately](https://github.com/superradcompany/microsandbox/pull/1959) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
-- [docs(quickstart): select cloud explicitly and clean up](https://github.com/superradcompany/microsandbox/pull/1958) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 days ago)
+- [docs(cloud): describe cloud resource metrics accurately](https://github.com/superradcompany/microsandbox/pull/1959) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
+- [docs(quickstart): select cloud explicitly and clean up](https://github.com/superradcompany/microsandbox/pull/1958) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (3 days ago)
 - [feat(sdk): use the cloud restart route](https://github.com/superradcompany/microsandbox/pull/1901) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [fix(env): set the last entry of a repeated env key](https://github.com/superradcompany/microsandbox/pull/1893) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
 - [feat(sdk): apply env and workdir modifications live](https://github.com/superradcompany/microsandbox/pull/1891) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
@@ -23,8 +23,8 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent stars
 
-- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (today)
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (2 days ago)
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (1 day ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (3 days ago)
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager  (1 week ago)
 - [ndycode/codex-multi-auth](https://github.com/ndycode/codex-multi-auth) - Codex CLI multi-account OAuth manager with account switching, health checks, runtime rotation, diagnostics, and recovery tools for @openai/codex (2 weeks ago)
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS (2 weeks ago)
@@ -41,7 +41,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Currently working on
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (1 day ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (2 days ago)
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (3 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (4 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (5 months ago)
