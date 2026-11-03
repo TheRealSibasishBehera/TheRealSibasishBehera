@@ -10,6 +10,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 
 #### Recent pull requests
 
+- [docs(network): say cloud returns JSON denials](https://github.com/superradcompany/microsandbox/pull/2010) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (today)
 - [docs(cloud): describe cloud resource metrics accurately](https://github.com/superradcompany/microsandbox/pull/1959) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
 - [docs(quickstart): select cloud explicitly and clean up](https://github.com/superradcompany/microsandbox/pull/1958) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (6 days ago)
 - [feat(sdk): use the cloud restart route](https://github.com/superradcompany/microsandbox/pull/1901) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (1 week ago)
@@ -18,8 +19,6 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [feat(sdk): apply label modifications live on running sandboxes](https://github.com/superradcompany/microsandbox/pull/1881) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 - [fix(sdk): let node and go modify set secret policy](https://github.com/superradcompany/microsandbox/pull/1880) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 - [fix(sdk): refuse env the guest cannot boot with](https://github.com/superradcompany/microsandbox/pull/1863) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
-- [fix(sdk): refuse reserved label keys in modify](https://github.com/superradcompany/microsandbox/pull/1857) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
-- [fix(agentd): replace the CA bundle atomically](https://github.com/superradcompany/microsandbox/pull/1856) on [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) (2 weeks ago)
 
 #### Recent stars
 
@@ -35,13 +34,13 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 month ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (1 month ago)
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google&#39;s open agentic orchestration runtime (1 month ago)
-- [0sec-labs/0](https://github.com/0sec-labs/0) - Open-source AI security harness. Includes a web UI for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing &#43; CLI and MCP for agents. (1 month ago)
+- [0sec-labs/0](https://github.com/0sec-labs/0) - The open-source AI security harness. Includes a web interface for code analysis, pentesting, vulnerability research, reverse engineering, verification, and fixing &#43; CLI and MCP for agents. (1 month ago)
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator &amp; testing library. (1 month ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (1 month ago)
 
 #### Currently working on
 
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (3 days ago)
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library (today)
 - [TheRealSibasishBehera/msb-operator](https://github.com/TheRealSibasishBehera/msb-operator) - Kubernetes operator for microsandbox microVM sandboxes (3 months ago)
 - [iris-xyz/go-corrosion](https://github.com/iris-xyz/go-corrosion) - Go client for Corrosion (distributed SQLite via CRDTs) (5 months ago)
 - [TheRealSibasishBehera/s3-compaction-bench](https://github.com/TheRealSibasishBehera/s3-compaction-bench) - S3 CopyObject throughput benchmark for many-small-object workloads (64 KiB content-addressed). Measures the wall between client-side SigV4&#43;TLS saturation and per-prefix S3 throttling. (5 months ago)
