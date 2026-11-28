@@ -37,7 +37,7 @@ Hi! Sibasish here <br><br> Software Engineer working around distributed systems,
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (2 months ago)
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system (2 months ago)
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google&#39;s open agentic orchestration runtime (2 months ago)
-- [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source agent and code security that continuously find, prove and fix vulnerabilities. CLI, web console and GitHub Action. Bring your own model. (2 months ago)
+- [0sec-labs/0security](https://github.com/0sec-labs/0security) - Open-source agent and code security. Continuously find, prove and fix vulnerabilities. CLI, web console and GitHub Action. Bring your own model. (2 months ago)
 - [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure. (2 months ago)
 - [elitan/velo](https://github.com/elitan/velo) - Postgres with instant branching and scale-to-zero (2 months ago)
 - [paradigmxyz/centaur](https://github.com/paradigmxyz/centaur) - Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. (2 months ago)
